@@ -5,16 +5,16 @@ Repositório de teste
  O Caminho é a Mão na Massa! Todos os códigos, desafios e projetos que estou desenvolvendo durante os cursos serão commitados e organizados aqui. Se você também está estudando pela DIO ou está interessado nos temas, fique à vontade para explorar a estrutura.
 #  Minhas Anotações sobre Git & GitHub (Curso DIO)
 
-## Comandos Fundamentais
+# 📚 Minhas Anotações sobre Git & GitHub
 
-* `git init`: Começando o versionamento em um diretório.
-* `git status`: Checando o status dos arquivos (untracked, modified, staged).
-* `git add [arquivo/pasta]`: Movendo arquivos para a área de preparação (staging).
-* `git commit -m "Minha mensagem"`: Gravando o snapshot no histórico.
-* `git push origin main`: Enviando as alterações para o GitHub.
+## Comandos Essenciais da DIO
 
-## Próximos Tópicos a Dominar
+* `git init`: Inicializa um repositório Git local.
+* `git clone [URL]`: Copia um repositório remoto para a máquina local.
+* `git add .`: Adiciona todos os arquivos modificados/novos para a área de *staging*.
+* `git commit -m "mensagem"`: Grava as mudanças do *staging* no histórico.
+* `git push origin main`: Envia o commit local para o repositório remoto.
 
-1. Trabalhando com Branches (`checkout`, `merge`).
-2. Corrigindo o Histórico (`rebase`, `amend`).
-3. Usando o `.gitignore` corretamente.
+## Próximos Passos
+* Praticar o *branching* (`git branch`, `git checkout`).
+* Aprender sobre *merge* e *rebase*.
