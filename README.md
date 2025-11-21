@@ -17,6 +17,6 @@ Repositório de teste
 * Praticar o *branching* (`git branch`, `git checkout`).
 * Aprender sobre *merge* e *rebase*.
 
-Glossário:
-Interpretador:
-Linguagem da Máquina:
+# Glossário:
+# Interpretador:
+# Linguagem da Máquina:
