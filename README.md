@@ -1,6 +1,6 @@
 # git-e-github-teste
 Repositório de teste
-"Estou realizando vários cursos pela Dio.me e um deles é o Git e GitHub. Estou muito feliz por ser aluno dessa plataforma de estudos.
+# Estou realizando vários cursos pela Dio.me e um deles é o Git e GitHub. Estou muito feliz por ser aluno dessa plataforma de estudos.
 
  O Caminho é a Mão na Massa! Todos os códigos, desafios e projetos que estou desenvolvendo durante os cursos serão commitados e organizados aqui. Se você também está estudando pela DIO ou está interessado nos temas, fique à vontade para explorar a estrutura.
 #  Minhas Anotações sobre Git & GitHub (Curso DIO)
